@@ -181,6 +181,7 @@ P = 1/(1+exp(Y*(-1)))
 summary(P)
 Landslide_Susceptability_Index = P
 plot(P)
+//charan
 
 
 
